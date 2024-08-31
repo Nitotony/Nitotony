@@ -1,20 +1,20 @@
-<h1 align="center" style="font-family: Arial, sans-serif; color: #333;">Hi 👋, I'm Nito Tony C</h1>
-<h3 align="center" style="font-family: Arial, sans-serif; color: #555;">A passionate Full Stack Developer from India</h3>
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #2c3e50;">Hi 👋, I'm Nito Tony C</h1>
+<h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #34495e;">A Passionate Full Stack Developer from India</h3>
 
-<h3 style="font-family: Arial, sans-serif; color: #333;">Connect with me:</h3>
-<p style="display: flex; align-items: center;">
-  <a href="https://www.leetcode.com/nito_tony_c" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nito_tony_c" height="30" width="40" />
+<h3 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #2c3e50; margin-top: 40px;">Connect with Me:</h3>
+<p style="display: flex; align-items: center; gap: 15px;">
+  <a href="https://www.leetcode.com/nito_tony_c" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nito_tony_c" height="30" width="40"/>
   </a>
 </p>
 
-<h3 style="font-family: Arial, sans-serif; color: #333;">About Me:</h3>
-<p style="font-family: Arial, sans-serif; color: #555; line-height: 1.6;">
+<h3 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #2c3e50; margin-top: 40px;">About Me:</h3>
+<p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #34495e; line-height: 1.8;">
   Hi there 👋 I’m Nito Tony, a student of the dark arts of programming and a software engineer with a passion for working in dynamic teams. I thrive in collaborative environments, enjoying the exchange of ideas with people of diverse expertise while continuously learning and growing.
 </p>
 
-<h3 style="font-family: Arial, sans-serif; color: #333;">Languages and Tools:</h3>
-<p style="display: flex; flex-wrap: wrap; gap: 15px; font-family: Arial, sans-serif; color: #555;">
+<h3 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #2c3e50; margin-top: 40px;">Languages and Tools:</h3>
+<p style="display: flex; flex-wrap: wrap; gap: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #34495e;">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
@@ -58,3 +58,4 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
 </p>
+
