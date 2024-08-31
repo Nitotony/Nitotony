@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitotony&label=Profile%20views&color=0e75b6&style=flat" alt="nitotony" /> </p>
 
+<p align="left">I’m Nito Tony, a student of the dark arts of programming and a software engineer with a passion for working in dynamic teams. I thrive in collaborative environments, enjoying the exchange of ideas with people of diverse expertise while continuously learning and growing.</p>
+
 - 🌱 I’m currently learning **SpringBoot**
 
 - 💬 Ask me about **react,nodejs and java**
